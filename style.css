@@ -1,21 +1,32 @@
 #mainheader{
-    margin-left: 250px;
+    margin-left: 200px;
     font-size:70px;
 
     font-family:monospace;
 }
 #bodyh1{
     font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+    overflow:auto;
+    margin-left: 100px;
+  display: block;
+  text-align: center;
+  padding: 11px 16px;
+  text-decoration: none;
 
 }
+
 #body2{
     font-size:40px;
+    float:none
+
 
 }
 
 #body3{
     font-size:20px;
-    font
+    float:none;
+
 
 }
 body{
